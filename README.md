@@ -53,5 +53,5 @@ $ cd src
 $ python model/main.py
 ```
 The settings of datasets and parameters can be altered in `model/config.py`. 
-The model checkpoints and training log will be saved in `weight/`.
+The model checkpoints and training log will be saved in `weights/`.
 
