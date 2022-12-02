@@ -38,7 +38,8 @@ The code has been tested running under Python 3.6.7, with the following packages
 ### Running Procedure
 
 #### Prepare data
-Steam, Movielens, Amazon Toys&Games dataset can be respectively downloaded from 'http://cseweb.ucsd.edu/jmcauley/datasets.html#steam_data/'
+Steam, Movielens, Amazon Toys&Games dataset can be respectively downloaded from 
+'http://cseweb.ucsd.edu/jmcauley/datasets.html#steam_data/'
 'https://grouplens.org/datasets/movielens/'
 'http://deepyeti.ucsd.edu/jianmo/amazon/index.html'
 
